@@ -1,5 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
-
+// pull request test
 namespace Chat_App_API.Models
 {
     public class AppDbContext : DbContext
